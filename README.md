@@ -93,7 +93,7 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | NHST steps: (for the regression model overall) |
 | For regression analyses, these steps are essentially followed twice. Once for evaluating the model overall, and once for evaluating the model parameters individually.<br> |
 | 1. State the null and alternative hypothesis. |
-| $\textcolor{red}{Update \ this \ section:}$ <br>There is no difference between the null model (intercept only) and the model with predictors.<br><br>H1: There is a difference between the null model (intercept only) and the model with predictors.<br><br> |
+| $\textcolor{red}{Update \ this \ section:}$ <br>H0: There is no difference between the null model (intercept only) and the model with predictors.<br><br>H1: There is a difference between the null model (intercept only) and the model with predictors.<br><br> |
 | 2. Establish the criteria for rejection (alpha level). |
 | Typically alpha = .05<br><br><br><br> |
 | 3. Calculate the test statistic. |
