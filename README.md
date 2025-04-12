@@ -115,7 +115,7 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | What is the effect size? What is the interpretation of the effect size? |
 | $\textcolor{red}{Update \ this \ section:}$ <br>Model overall:<br>R squared = <br><br>Each parameter:<br>standardized coefficient<br> |
 | Can a Bayes Factor be calculated? What is the interpretation of the Bayes Factor? |
-| BF Model = <br>B01 (null supported) or B10 (alternative supported) = (1-3 negligible evidence, 3-20 moderate evidence, 20-150 strong evidence, >150 very strong evidence)<br><br><br><br> |
+| B01 (null supported) or B10 (alternative supported) = (1-3 negligible evidence, 3-20 moderate evidence, 20-150 strong evidence, >150 very strong evidence)<br><br><br><br> |
 | How will you report results? |
 | $\textcolor{red}{Update \ this \ section:}$ <br>A simple linear regression was conducted to predict systolic blood pressure from age. The regression equation was significant, F(1,98)=15.62,p<.001, with an R squared  of .14. Age significantly predicted systolic blood pressure, b=0.75, t(98)=3.95, p<.001. This suggests that for every additional year of age, systolic blood pressure increases by 0.75 mmHg, on average.<br> |
 | **--------------------References--------------------** |
