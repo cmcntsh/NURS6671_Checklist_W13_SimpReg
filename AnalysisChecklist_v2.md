@@ -177,7 +177,7 @@ What is the source of the data youâ€™ve gathered? Is the mechanism by which youâ
     <td>3. Calculate the test statistic.</td>
 </tr>
 <tr>
-    <td>$\textcolor{red}{Update \ this \ section:}$ <br>t (standard error) = [t-value], p = [p-value]<br><br></td>
+    <td>$\textcolor{red}{Update \ this \ section:}$ <br>t (df) = [t-value], p = [p-value]<br><br></td>
 </tr>
 <tr>
     <td>4. Make a decision about the null hypothesis. (Reject or fail to reject?)</td>
